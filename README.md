@@ -7,8 +7,7 @@ This was a project I started to teach myself Python.
 If you need the rules of cribbage, look here: 
 http://www.bicyclecards.com/how-to-play/cribbage/
 
-To play against another human, use the "Cribbagev1.py" file.
-To play against the bot, use the "PlayerBotOnly.py" file.
+To play against the bot, use the "Cribbagev1.py" file.
 
 The CribbageAI I have developed uses algorithms to determine what card to throw. For example, once dealt 6 cards, it will calculate the points for all combinations of 4 cards weighted against all possible cuts and throw whatever keeps it the most points in its hand. While pegging, it will throw cards that are obviously pairs, runs (in any order), 15s or 31s.
 
@@ -24,3 +23,5 @@ Speaking of pegging, in late-game, the game revolves more around pegging than ar
 
 # Further Work
 The original intent for this project was to learn machine learning through Python. However, after finishing the algorithmic AI and researching Q-learning, I realized that the decision-space for this game is massive, and that the project I had begun was a bit too ambitious. I plan to do a smaller machine learning project and build my way up to a more effective cribbage bot using machine learning.
+
+At this point, I may try to write a UI for this and publish my first mobile phone app. We'll see what's to come!
