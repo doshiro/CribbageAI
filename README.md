@@ -22,6 +22,6 @@ In throwing, one does not always throw for the optimal number of points in their
 Speaking of pegging, in late-game, the game revolves more around pegging than around keeping cards in your hand, as often you don't get to count your hand / crib if one player pegs out. The bot fails to take this into account, and it will always throw to keep the most points in its hard, even if its goal should be to peg out. 
 
 # Further Work
-The original intent for this project was to learn machine learning through Python. However, after finishing the algorithmic AI and researching Q-learning, I realized that the decision-space for this game is massive, and that the project I had begun was a bit too ambitious. I plan to do a smaller machine learning project and build my way up to a more effective cribbage bot using machine learning.
+The original intent for this project was to learn machine learning through Python. However, after finishing the algorithmic AI and researching deep reinforcement learning and Q-learning, I realized that the decision-space for this game is massive, and that the project I had begun was a bit too ambitious. I plan to do a smaller machine learning project and build my way up to a more effective cribbage bot using machine learning.
 
 At this point, I may try to write a UI for this and publish my first mobile phone app. We'll see what's to come!
