@@ -7,8 +7,8 @@ This was a project I started to teach myself Python.
 If you need the rules of cribbage, look here: 
 http://www.bicyclecards.com/how-to-play/cribbage/
 
-To play against another human, use the "" file.
-To play against the bot, use the "" file.
+To play against another human, use the "Cribbagev1.py" file.
+To play against the bot, use the "PlayerBotOnly.py" file.
 
 The CribbageAI I have developed uses algorithms to determine what card to throw. For example, once dealt 6 cards, it will calculate the points for all combinations of 4 cards weighted against all possible cuts and throw whatever keeps it the most points in its hand. While pegging, it will throw cards that are obviously pairs, runs (in any order), 15s or 31s.
 
